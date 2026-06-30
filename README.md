@@ -156,6 +156,8 @@ progetto13/
 │   ├── city_test.R
 │   ├── fire_test.R       
 │   └── bplcutfit.R
+├── 13.VirkarClauset.pdf # Paper di riferimento
+├── Presentation13Cattari-Toscano-Trivelli.pptx # Presentazione lavoro
 └── README.md
 ```
 
