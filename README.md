@@ -70,6 +70,7 @@ Interpretazione:
 - |R̃| > 2 e p < 0.05: evidenza forte
 
 **Funzioni di Fitting Alternative**
+
 bexpnfit(h, boundaries, bmin)  
 - Stima λ (esponenziale) via MLE  
 - Ottimizzazione: Nelder-Mead + BFGS
